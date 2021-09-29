@@ -23,7 +23,7 @@ Rest api implementation with  tosa, Typescript, Express, node, and mongo.
 docker exec <container-id> mongoimport --host mongodb_container --db ledn --collection accounts --type json --file /data/accounts_large.json --jsonArray
 ```
 
-5. All the available endpoints, request & response parameters are availabe through swagger. Please Go to
+5. All the available endpoints, request & response parameters are availabe through swagger. Please Go to 
 ```
 http://localhost:3001/docs/
 ```
@@ -31,7 +31,8 @@ http://localhost:3001/docs/
 <br>
 
 ### Test cases
-A small subset of test cases are in `/app/test` folder, to run them
+A small subset of test cases are in `/app/test` folder. <br/>
+To run them make sure the dockers are running, then run the following commands.
 
 1. `cd app`
 2. `yarn install`
