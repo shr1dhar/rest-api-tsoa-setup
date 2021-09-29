@@ -31,7 +31,7 @@ http://localhost:3001/docs/
 <br>
 
 ### Test cases
-A small subset of test cases are in `/app/test` folder. <br/>
+A small subset of test cases are in `/app/tests` folder. <br/>
 To run them make sure the dockers are running, then run the following commands.
 
 1. `cd app`
