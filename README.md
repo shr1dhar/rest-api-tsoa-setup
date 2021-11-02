@@ -1,4 +1,4 @@
-# ledn-demo
+# rest-api-demo
 Rest api implementation with  tosa, Typescript, Express, node, and mongo.
 
 <br>
