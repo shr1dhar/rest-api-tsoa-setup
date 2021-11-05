@@ -1,4 +1,4 @@
-# rest-api-demo
+# rest-api-tsoa-setup
 Rest api implementation with  tosa, Typescript, Express, node, and mongo.
 
 <br>
